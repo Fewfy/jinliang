@@ -1,4 +1,5 @@
 .DS_Store
+.claude/settings.local.json
 library/*/source/
 library/*/course.md
 library/*/progress.md

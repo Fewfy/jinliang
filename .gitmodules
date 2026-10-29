@@ -1,0 +1,3 @@
+[submodule "vendor/education-agent-skills"]
+	path = vendor/education-agent-skills
+	url = https://github.com/GarethManning/education-agent-skills.git
